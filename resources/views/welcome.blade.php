@@ -49,7 +49,7 @@
             }
 
             .links > a {
-                color: #636b6f;
+                color: BLUE;
                 padding: 0 25px;
                 font-size: 13px;
                 font-weight: 600;
@@ -87,7 +87,7 @@
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentos</a>
                     <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
+                    <a href="https://laravel-news.com">Noticias</a>
                     <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
